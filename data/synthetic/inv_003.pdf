@@ -1,0 +1,65 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 641 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(SYNTHETIC INVOICE) Tj
+0 -16 Td
+(Not a real bill. No personal data.) Tj
+0 -16 Td
+(Vendor: Harbor Paper Co) Tj
+0 -16 Td
+(Invoice Number: INV-1003) Tj
+0 -16 Td
+(Invoice Date: 2026-02-08) Tj
+0 -16 Td
+(Due Date: 2026-03-10) Tj
+0 -16 Td
+(Currency: USD) Tj
+0 -16 Td
+(Items:) Tj
+0 -16 Td
+(- Binder clip box | qty 4 | unit 3.75 | amount 15.00) Tj
+0 -16 Td
+(- Desk lamp | qty 1 | unit 18.00 | amount 18.00) Tj
+0 -16 Td
+(- Grid notebook | qty 2 | unit 6.25 | amount 12.50) Tj
+0 -16 Td
+(- Ink cartridge | qty 3 | unit 27.40 | amount 82.20) Tj
+0 -16 Td
+(Subtotal: 127.70) Tj
+0 -16 Td
+(Tax: 10.22) Tj
+0 -16 Td
+(Total: 137.92) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000939 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1009
+%%EOF

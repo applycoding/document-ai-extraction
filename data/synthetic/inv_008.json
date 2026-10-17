@@ -1,0 +1,31 @@
+{
+  "document_kind": "invoice",
+  "vendor_name": "Cedar Circuit Parts",
+  "invoice_number": "INV-1008",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "currency": "USD",
+  "subtotal": "66.00",
+  "tax": "5.28",
+  "total": "71.28",
+  "line_items": [
+    {
+      "description": "Kraft mailer",
+      "quantity": "1",
+      "unit_price": "4.50",
+      "amount": "4.50"
+    },
+    {
+      "description": "Binder clip box",
+      "quantity": "2",
+      "unit_price": "3.75",
+      "amount": "7.50"
+    },
+    {
+      "description": "Desk lamp",
+      "quantity": "3",
+      "unit_price": "18.00",
+      "amount": "54.00"
+    }
+  ]
+}

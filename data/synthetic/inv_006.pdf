@@ -1,0 +1,65 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 639 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(SYNTHETIC INVOICE) Tj
+0 -16 Td
+(Not a real bill. No personal data.) Tj
+0 -16 Td
+(Vendor: Metro Ribbon Goods) Tj
+0 -16 Td
+(Invoice Number: INV-1006) Tj
+0 -16 Td
+(Invoice Date: 2026-03-31) Tj
+0 -16 Td
+(Due Date: 2026-04-30) Tj
+0 -16 Td
+(Currency: USD) Tj
+0 -16 Td
+(Items:) Tj
+0 -16 Td
+(- Desk lamp | qty 3 | unit 18.00 | amount 54.00) Tj
+0 -16 Td
+(- Grid notebook | qty 4 | unit 6.25 | amount 25.00) Tj
+0 -16 Td
+(- Ink cartridge | qty 1 | unit 27.40 | amount 27.40) Tj
+0 -16 Td
+(- Cotton tote | qty 2 | unit 9.00 | amount 18.00) Tj
+0 -16 Td
+(Subtotal: 124.40) Tj
+0 -16 Td
+(Tax: 9.95) Tj
+0 -16 Td
+(Total: 134.35) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000937 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1007
+%%EOF

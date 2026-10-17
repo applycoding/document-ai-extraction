@@ -1,0 +1,15 @@
+--- page 1 ---
+SYNTHETIC INVOICE
+Not a real bill. No personal data.
+Vendor: Brightline Studio
+Invoice Number: INV-1002
+Invoice Date: 2026-01-22
+Due Date: 2026-02-21
+Currency: USD
+Items:
+- Shelf bracket | qty 3 | unit 12.25 | amount 36.75
+- Label roll | qty 4 | unit 5.10 | amount 20.40
+- Kraft mailer | qty 1 | unit 4.50 | amount 4.50
+Subtotal: 61.65
+Tax: 4.93
+Total: 66.58

@@ -1,0 +1,76 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 492 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(SYNTHETIC INVOICE) Tj
+0 -16 Td
+(Not a real bill. No personal data.) Tj
+0 -16 Td
+(Vendor: Cedar Circuit Parts) Tj
+0 -16 Td
+(Invoice Number: INV-1008) Tj
+0 -16 Td
+(Invoice Date: 2026-05-04) Tj
+0 -16 Td
+(Due Date: 2026-06-03) Tj
+0 -16 Td
+(Currency: USD) Tj
+0 -16 Td
+(Items:) Tj
+0 -16 Td
+(- Kraft mailer | qty 1 | unit 4.50 | amount 4.50) Tj
+0 -16 Td
+(- Binder clip box | qty 2 | unit 3.75 | amount 7.50) Tj
+0 -16 Td
+(- Desk lamp | qty 3 | unit 18.00 | amount 54.00) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 97 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(Subtotal: 66.00) Tj
+0 -16 Td
+(Tax: 5.28) Tj
+0 -16 Td
+(Total: 71.28) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000796 00000 n 
+0000000922 00000 n 
+0000001069 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1139
+%%EOF

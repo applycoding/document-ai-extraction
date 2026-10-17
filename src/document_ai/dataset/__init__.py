@@ -1,0 +1,1 @@
+"""Synthetic invoice dataset helpers."""
