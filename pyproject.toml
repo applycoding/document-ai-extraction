@@ -50,7 +50,8 @@ known-first-party = ["document_ai"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
 addopts = "-q"
 filterwarnings = [
-  "ignore:Using `httpx` with `starlette.testclient` is deprecated:DeprecationWarning",
+  "ignore:Using `httpx` with `starlette.testclient` is deprecated:Warning",
 ]
