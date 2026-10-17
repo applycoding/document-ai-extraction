@@ -1,0 +1,25 @@
+{
+  "document_kind": "invoice",
+  "vendor_name": "Silver Finch Printing",
+  "invoice_number": "INV-1007",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-17",
+  "currency": "USD",
+  "subtotal": "48.25",
+  "tax": "3.86",
+  "total": "52.11",
+  "line_items": [
+    {
+      "description": "Cotton tote",
+      "quantity": "4",
+      "unit_price": "9.00",
+      "amount": "36.00"
+    },
+    {
+      "description": "Shelf bracket",
+      "quantity": "1",
+      "unit_price": "12.25",
+      "amount": "12.25"
+    }
+  ]
+}

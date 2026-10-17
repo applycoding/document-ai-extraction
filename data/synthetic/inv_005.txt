@@ -1,0 +1,15 @@
+--- page 1 ---
+SYNTHETIC RECEIPT
+Not a real bill. No personal data.
+Vendor: Little Oak Pantry
+Invoice Number: INV-1005
+Invoice Date: 2026-03-14
+Due Date: 2026-04-13
+Currency: USD
+Items:
+- Label roll | qty 2 | unit 5.10 | amount 10.20
+- Kraft mailer | qty 3 | unit 4.50 | amount 13.50
+- Binder clip box | qty 4 | unit 3.75 | amount 15.00
+Subtotal: 38.70
+Tax: 3.10
+Total: 41.80

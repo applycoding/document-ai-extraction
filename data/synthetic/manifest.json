@@ -1,0 +1,53 @@
+{
+  "description": "Synthetic invoices for evaluation. Fictional vendors and amounts. No personal data.",
+  "documents": [
+    {
+      "id": "inv_001",
+      "pdf": "inv_001.pdf",
+      "label": "inv_001.json",
+      "text": "inv_001.txt"
+    },
+    {
+      "id": "inv_002",
+      "pdf": "inv_002.pdf",
+      "label": "inv_002.json",
+      "text": "inv_002.txt"
+    },
+    {
+      "id": "inv_003",
+      "pdf": "inv_003.pdf",
+      "label": "inv_003.json",
+      "text": "inv_003.txt"
+    },
+    {
+      "id": "inv_004",
+      "pdf": "inv_004.pdf",
+      "label": "inv_004.json",
+      "text": "inv_004.txt"
+    },
+    {
+      "id": "inv_005",
+      "pdf": "inv_005.pdf",
+      "label": "inv_005.json",
+      "text": "inv_005.txt"
+    },
+    {
+      "id": "inv_006",
+      "pdf": "inv_006.pdf",
+      "label": "inv_006.json",
+      "text": "inv_006.txt"
+    },
+    {
+      "id": "inv_007",
+      "pdf": "inv_007.pdf",
+      "label": "inv_007.json",
+      "text": "inv_007.txt"
+    },
+    {
+      "id": "inv_008",
+      "pdf": "inv_008.pdf",
+      "label": "inv_008.json",
+      "text": "inv_008.txt"
+    }
+  ]
+}

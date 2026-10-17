@@ -1,0 +1,37 @@
+{
+  "document_kind": "invoice",
+  "vendor_name": "Metro Ribbon Goods",
+  "invoice_number": "INV-1006",
+  "invoice_date": "2026-03-31",
+  "due_date": "2026-04-30",
+  "currency": "USD",
+  "subtotal": "124.40",
+  "tax": "9.95",
+  "total": "134.35",
+  "line_items": [
+    {
+      "description": "Desk lamp",
+      "quantity": "3",
+      "unit_price": "18.00",
+      "amount": "54.00"
+    },
+    {
+      "description": "Grid notebook",
+      "quantity": "4",
+      "unit_price": "6.25",
+      "amount": "25.00"
+    },
+    {
+      "description": "Ink cartridge",
+      "quantity": "1",
+      "unit_price": "27.40",
+      "amount": "27.40"
+    },
+    {
+      "description": "Cotton tote",
+      "quantity": "2",
+      "unit_price": "9.00",
+      "amount": "18.00"
+    }
+  ]
+}
