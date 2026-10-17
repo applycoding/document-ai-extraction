@@ -1,0 +1,31 @@
+{
+  "document_kind": "receipt",
+  "vendor_name": "Little Oak Pantry",
+  "invoice_number": "INV-1005",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "currency": "USD",
+  "subtotal": "38.70",
+  "tax": "3.10",
+  "total": "41.80",
+  "line_items": [
+    {
+      "description": "Label roll",
+      "quantity": "2",
+      "unit_price": "5.10",
+      "amount": "10.20"
+    },
+    {
+      "description": "Kraft mailer",
+      "quantity": "3",
+      "unit_price": "4.50",
+      "amount": "13.50"
+    },
+    {
+      "description": "Binder clip box",
+      "quantity": "4",
+      "unit_price": "3.75",
+      "amount": "15.00"
+    }
+  ]
+}

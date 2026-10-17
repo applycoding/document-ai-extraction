@@ -1,0 +1,16 @@
+--- page 1 ---
+SYNTHETIC INVOICE
+Not a real bill. No personal data.
+Vendor: Cedar Circuit Parts
+Invoice Number: INV-1008
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+Currency: USD
+Items:
+- Kraft mailer | qty 1 | unit 4.50 | amount 4.50
+- Binder clip box | qty 2 | unit 3.75 | amount 7.50
+- Desk lamp | qty 3 | unit 18.00 | amount 54.00
+--- page 2 ---
+Subtotal: 66.00
+Tax: 5.28
+Total: 71.28

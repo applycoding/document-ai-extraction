@@ -1,0 +1,31 @@
+{
+  "document_kind": "invoice",
+  "vendor_name": "Brightline Studio",
+  "invoice_number": "INV-1002",
+  "invoice_date": "2026-01-22",
+  "due_date": "2026-02-21",
+  "currency": "USD",
+  "subtotal": "61.65",
+  "tax": "4.93",
+  "total": "66.58",
+  "line_items": [
+    {
+      "description": "Shelf bracket",
+      "quantity": "3",
+      "unit_price": "12.25",
+      "amount": "36.75"
+    },
+    {
+      "description": "Label roll",
+      "quantity": "4",
+      "unit_price": "5.10",
+      "amount": "20.40"
+    },
+    {
+      "description": "Kraft mailer",
+      "quantity": "1",
+      "unit_price": "4.50",
+      "amount": "4.50"
+    }
+  ]
+}

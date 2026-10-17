@@ -1,0 +1,37 @@
+{
+  "document_kind": "invoice",
+  "vendor_name": "Harbor Paper Co",
+  "invoice_number": "INV-1003",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-03-10",
+  "currency": "USD",
+  "subtotal": "127.70",
+  "tax": "10.22",
+  "total": "137.92",
+  "line_items": [
+    {
+      "description": "Binder clip box",
+      "quantity": "4",
+      "unit_price": "3.75",
+      "amount": "15.00"
+    },
+    {
+      "description": "Desk lamp",
+      "quantity": "1",
+      "unit_price": "18.00",
+      "amount": "18.00"
+    },
+    {
+      "description": "Grid notebook",
+      "quantity": "2",
+      "unit_price": "6.25",
+      "amount": "12.50"
+    },
+    {
+      "description": "Ink cartridge",
+      "quantity": "3",
+      "unit_price": "27.40",
+      "amount": "82.20"
+    }
+  ]
+}

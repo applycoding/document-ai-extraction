@@ -1,0 +1,15 @@
+--- page 1 ---
+SYNTHETIC INVOICE
+Not a real bill. No personal data.
+Vendor: Cobalt Fixtures
+Invoice Number: INV-1004
+Invoice Date: 2026-02-25
+Due Date: 2026-03-27
+Currency: USD
+Items:
+- Ink cartridge | qty 1 | unit 27.40 | amount 27.40
+- Cotton tote | qty 2 | unit 9.00 | amount 18.00
+--- page 2 ---
+Subtotal: 45.40
+Tax: 3.63
+Total: 49.03
