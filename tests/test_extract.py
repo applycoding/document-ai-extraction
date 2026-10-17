@@ -1,13 +1,13 @@
 import json
 
 import pytest
-from tests.helpers import embedded_pages
 
 from document_ai.errors import ExtractionFailed
 from document_ai.extract import extract_invoice, format_pages
 from document_ai.llm.fake import FakeLLM
 from document_ai.llm.parser import ParserLLM
 from document_ai.models import required_citation_fields
+from tests.helpers import embedded_pages
 
 
 def _good_json(index: int = 1) -> str:
