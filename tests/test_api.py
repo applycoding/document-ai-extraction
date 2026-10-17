@@ -2,12 +2,12 @@ import io
 
 from fastapi.testclient import TestClient
 from PIL import Image
-from tests.helpers import embedded_pages
 
 from document_ai.api import create_app
 from document_ai.dataset.generate import render_invoice
 from document_ai.pipeline import build_pipeline
 from document_ai.textpdf import build_text_pdf
+from tests.helpers import embedded_pages
 
 
 def test_health() -> None:

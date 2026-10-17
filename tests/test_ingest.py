@@ -3,7 +3,6 @@ import io
 import pytest
 from PIL import Image
 from pypdf import PdfReader
-from tests.helpers import embedded_pages
 
 from document_ai.dataset.generate import render_invoice
 from document_ai.errors import IngestError
@@ -13,6 +12,7 @@ from document_ai.models import TextSource
 from document_ai.ocr.fake import FakeOCR
 from document_ai.pipeline import Pipeline
 from document_ai.textpdf import build_text_pdf
+from tests.helpers import embedded_pages
 
 
 def test_pdf_text_layer_keeps_labels() -> None:
